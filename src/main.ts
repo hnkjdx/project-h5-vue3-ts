@@ -5,7 +5,7 @@ import App from './App.vue'
 import router from './router'
 
 import './assets/main.css'
-console.log('test')
+console.log('test洒洒水')
 const app = createApp(App)
 
 app.use(createPinia())
